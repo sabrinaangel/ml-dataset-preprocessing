@@ -12,17 +12,8 @@ This assignment is being completed in stages. The repository will be continuousl
 - NIM: A11.2024.15596
 - Class: A11.4404
 
-## 📁 Folder Structure
-- `00-Memulai_Olah_Data/` - Python basics and dataset loading exercises
-
 ## 🐛 Experiment Notes
-### Errors Found:
-1. **NameError: pd not defined** → Solution: import pandas
-2. **FileNotFoundError** → Solution: check file location with os.listdir()
-
-### Insights:
-- Tab.csv dataset has [] rows and [} columns
-- No missing values (or mention if there are any)
+...
 
 ## 🚀 How to Run
 1. Open [Google Colab](https://colab.research.google.com/)
